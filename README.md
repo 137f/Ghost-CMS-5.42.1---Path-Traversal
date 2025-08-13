@@ -17,3 +17,14 @@ Essa falha pode expor arquivos sensíveis, como `.env`, `config.production.json`
 - Biblioteca `requests` instalada  
 ```bash
 pip install requests>=2.28.1
+```
+
+Contact
+------------
+Caso queira me contatar ou precise de algum serviço, me encontre nas seguintes plataformas:
+
+Discord User: 4wj.
+
+Instargram: @glowwz9
+
+Email: vliyanie1337@proton.me
