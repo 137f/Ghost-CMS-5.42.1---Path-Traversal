@@ -1,0 +1,1 @@
+# Ghost-CMS-5.42.1---Path-Traversal
